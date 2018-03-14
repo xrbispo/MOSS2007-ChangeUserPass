@@ -1,0 +1,5 @@
+c:\users\73022\documents\visual studio 2010\Projects\MOSS2007-ChangeUserPass\MOSS2007-ChangeUserPass\bin\Debug\MOSS2007-ChangeUserPass.dll
+c:\users\73022\documents\visual studio 2010\Projects\MOSS2007-ChangeUserPass\MOSS2007-ChangeUserPass\bin\Debug\MOSS2007-ChangeUserPass.pdb
+c:\users\73022\documents\visual studio 2010\Projects\MOSS2007-ChangeUserPass\MOSS2007-ChangeUserPass\obj\Debug\MOSS2007-ChangeUserPass.dll
+c:\users\73022\documents\visual studio 2010\Projects\MOSS2007-ChangeUserPass\MOSS2007-ChangeUserPass\obj\Debug\MOSS2007-ChangeUserPass.pdb
+C:\Users\73022\Documents\Visual Studio 2010\Projects\MOSS2007-ChangeUserPass\MOSS2007-ChangeUserPass\bin\Debug\Microsoft.SharePoint.dll

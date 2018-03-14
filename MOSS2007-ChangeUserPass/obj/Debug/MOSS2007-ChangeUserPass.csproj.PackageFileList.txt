@@ -1,0 +1,1 @@
+bin\Debug\MOSS2007_ChangeUserPass.wsp

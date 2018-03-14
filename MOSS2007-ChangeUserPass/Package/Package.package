@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ce4a289c-bb02-452a-8537-77db087a33d3" solutionId="ce4a289c-bb02-452a-8537-77db087a33d3" resetWebServer="false" sharePointProductVersion="" name="MOSS2007_ChangeUserPass" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="608c9ef0-a055-470f-8d2e-ba84c2560086" />
+  </features>
+</package>

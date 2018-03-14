@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ce4a289c-bb02-452a-8537-77db087a33d3">
+  <Assemblies>
+    <Assembly Location="MOSS2007-ChangeUserPass.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="MOSS2007-ChangeUserPass, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7e10cd45a9cb5a18" Namespace="MOSS2007_ChangeUserPass.ChangePassword" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\MOSS2007_ChangeUserPass\ChangePassword\ChangePasswordUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MOSS2007-ChangeUserPass_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
